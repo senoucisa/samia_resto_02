@@ -1,0 +1,103 @@
+body  {
+    font-family: 'Caveat Brush', cursive;
+}
+
+
+
+#conteneur {
+    background-image: url(../img/motif.jpg);
+    width: 1000px;
+    margin: 0 auto;  
+    box-sizing: border-box;
+}
+header {
+    text-align: right;
+   
+    background: url(../img/planches.jpg);
+    
+    height: 700px;
+    
+}
+li {
+    text-align: center;
+    display: inline;
+   
+}
+#ourstory {
+    width: 1000px;
+    height: 550px;
+    float: left;
+}
+#fare {
+    width: 420px;
+    height: 600px;
+    float: left;
+   
+}
+#diner {
+    width: 1000px;
+    height: 460px;
+}
+/* #oeuf {
+    width: 1000px;
+    height: 600px;
+} */
+#contact {
+    width: 1000px;
+    height: 678px;
+}
+.imagecerf {
+    text-align: center;
+}
+.cerf {
+    width: 472px;
+    height: 465px;
+    /* text-align: center; */
+}
+.textasperge {
+    width: 480px;
+    /* height: 500px; */
+    /* text-align: center; */
+    float: left;
+}
+.imgasperge {
+    width: 500px;
+    height: 300px;
+    float: right;
+}
+.imgsavon {
+    width: 500px;
+    height: 300px;
+    float: left;
+}
+.textsavon {
+    width: 420px;
+    height: 460px;
+    float: left;
+    margin: 0 auto;
+}
+.textmoule {
+    width: 480px;
+    /* height: 300px; */
+    float: left;
+}
+.imgmoule {
+    width: 700px;
+    height: 300px;
+    float: right;
+}
+.oeuf {
+    width: 1000px;
+    height: 600px;
+}
+
+footer {
+    height: 200px;
+}
+ 
+.clear {
+    clear: both;
+}
+#sociale {
+    text-align: left;
+}
